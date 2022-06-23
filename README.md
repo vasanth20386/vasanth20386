@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vasanthkumar
 - 👀 I’m interested in .. webdevelopment and data science
-- 🌱 I’m currently learning ..Java programming.
+- 🌱 I’m currently learning ..ML/AI.
 - 💞️ I’m looking to collaborate on ..everyone
 - 📫 How to reach me ...email me at lakavathvasanth24@gmail.com
 
